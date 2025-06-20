@@ -21,7 +21,6 @@ Sou Técnico em Automação Industrial e futuro Engenheiro em Controle e Automa�
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-blue?style=for-the-badge)
-![Serial Communication](https://img.shields.io/badge/Serial%20Lib-orange?style=for-the-badge)
 
 ---
 
@@ -37,8 +36,8 @@ Sou Técnico em Automação Industrial e futuro Engenheiro em Controle e Automa�
 
 ## 📂 Projetos em Destaque
 
-- [Serial_Lib](https://github.com/isaacestevangeuster/Serial_Lib): Biblioteca para comunicação serial eficiente e fácil de usar em projetos embarcados.
-- [Outros projetos](https://github.com/isaacestevangeuster?tab=repositories): Confira meus outros repositórios!
+- [Serial_Lib](https://github.com/Ilx159/Serial_Lib): Biblioteca para comunicação serial eficiente e fácil de usar em projetos embarcados.
+- [Outros projetos](https://github.com/Ilx159?tab=repositories): Confira meus outros repositórios!
 
 ---
 
