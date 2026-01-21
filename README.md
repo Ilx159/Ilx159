@@ -1,62 +1,16 @@
-# 👋 Olá, eu sou Isaac Estevan Geuster!
+# Hi, I'm Isaac!
 
-Sou Técnico em Automação Industrial e futuro Engenheiro em Controle e Automação. Tenho paixão por tecnologia, sistemas embarcados e programação, especialmente em C e C++. Aqui você vai encontrar um pouco sobre mim, meus projetos, interesses e formas de contato.
+I usually work on projects driven by curiosity, always aiming for efficiency and a deep understanding of what is happening under the hood.
 
----
+Most of what I do involves:
+- C, my main language for most projects I work on.
+- Electronics and robotics, so I’m not limited to just the computer.
 
-## 🚀 Sobre Mim
+In my repositories you’ll find:
+- Small projects where I explore ideas.
+- Implementations made mainly for learning.
+- Ongoing work.
 
-- 🎓 Técnico em Automação Industrial
-- 👨‍🎓 Graduando em Engenharia de Controle e Automação
-- 💻 Entusiasta Linux
-- 🤖 Participante de competições de robótica
-- 💙 C
-- 🎮 Gamer nas horas vagas
+If something looks strange or unfinished, it’s probably because I was testing and learning.
 
----
-
-## 💡 Principais Habilidades
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-blue?style=for-the-badge)
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- **Sistemas Embarcados:** Programação de microcontroladores, integração de hardware e software
-- **Linguagens:** C, C++
-- **Plataformas:** Linux, Arduino, Raspberry Pi
-- **Desenvolvimento de Bibliotecas:** Serial_Lib
-- **Controle e Automação:** PLC, sensores, atuadores
-
----
-
-## 📂 Projetos em Destaque
-
-- [Serial_Lib](https://github.com/Ilx159/Serial_Lib): Biblioteca para comunicação serial eficiente e fácil de usar em projetos embarcados.
-- [Outros projetos](https://github.com/Ilx159?tab=repositories): Confira meus outros repositórios!
-
----
-
-## 🌐 Redes e Contato
-
-- 🎬 [YouTube: isaacestevangeuster](https://www.youtube.com/@isaacestevangeuster)
-- 💬 Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/isaac-estevan-geuster-1639b433a/)
-- 📫 Email: isaacegeuster@gmail.com
-
-
----
-
-## 🎮 Hobbies
-
-- Jogar videogames
-- Explorar novas tecnologias
-- Compartilhar conhecimento em vídeos e tutoriais
-
----
-
-
-Sinta-se à vontade para explorar meus projetos, contribuir ou entrar em contato para trocar uma ideia sobre tecnologia, automação, sistemas embarcados ou games!
+Feel free to look around, clone, or ask questions.
